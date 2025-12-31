@@ -19,6 +19,8 @@ This Lab is powered by the collective intelligence of the community. Below are t
 **Author:** [@ContributorName](link-to-github-profile)
 **Status:** Verified by TechGuards ✅
 
+## Exmaple please add only high quality structured prompts in MD or JSON format Example of structure prompt here.
+
 # Prompt: Visually‑Clean Presentation from Source
 **Author:** [@MunawarAbadullahOfficial](https://github.com/MunawarAbadullahOfficial)
 **Status:** Pending Verification
