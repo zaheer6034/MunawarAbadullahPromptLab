@@ -15,6 +15,10 @@ This Lab is powered by the collective intelligence of the community. Below are t
 ---
 *Want to see your name here? Check out our [CONTRIBUTING.md](./CONTRIBUTING.md) guide.*
 
+# Prompt: [Name of Prompt]
+**Author:** [@ContributorName](link-to-github-profile)
+**Status:** Verified by TechGuards ✅
+
 # Prompt: Visually‑Clean Presentation from Source
 **Author:** [@MunawarAbadullahOfficial](https://github.com/MunawarAbadullahOfficial)
 **Status:** Pending Verification
