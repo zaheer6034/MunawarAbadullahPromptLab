@@ -19,7 +19,13 @@ This Lab is powered by the collective intelligence of the community. Below are t
 **Author:** [@ContributorName](link-to-github-profile)
 **Status:** Verified by TechGuards ✅
 
-## Exmaple please add only high quality structured prompts in MD or JSON format Example of structure prompt here.
+## Guidelines for Submissions:
+
+* Only submit high-quality, structured prompts.
+
+* Required format: Markdown or JSON.
+
+See the example below for the correct structure.
 
 # Prompt: Visually‑Clean Presentation from Source
 **Author:** [@MunawarAbadullahOfficial](https://github.com/MunawarAbadullahOfficial)
